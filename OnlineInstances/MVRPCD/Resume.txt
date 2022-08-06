@@ -1,0 +1,6 @@
+The source file of testing instances contains three features
+1) Capacity:  Capacity of Pickup Vehicle  Capacity of Delivery Vehicle
+2) DemandMatrix
+3) Instance: the informations of supplier/customer nodes
+    ID of node   XCoords   YCoords   Ready time   Due Date   Depot=0 / Supplier=1/Customer =2
+
